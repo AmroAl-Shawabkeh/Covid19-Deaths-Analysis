@@ -1,8 +1,9 @@
-DBCC FREEPROCCACHE --> remove all elements from plan cache for the entire instance. 
+DBCC FREEPROCCACHE --> remove all elements from plan cache for the entire instance 
 DBCC FREEPROCCACHE --> flush the plan cache for the entire instance. 
 ------------------------------------------------------------------------------
 use PortfolioProjects;
 ---------------------------------------------------------------------------------------
+
 
 --======================================================using for tableau project======================================================================== 
 --global numbers 
